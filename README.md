@@ -111,6 +111,25 @@ Inventory Stock Alerts:
 
 "أعطيني السلعة اللي قربات تسالى من الستوك (OnHand < MinStock)"
 ```
+# 🤖 SAP B1 MCP AI
+
+An intelligent AI assistant connected to **SAP Business One** through MCP.
+
+## 📸 Application Preview
+
+<p align="center">
+  <img width="1600" height="780" alt="image" src="https://github.com/user-attachments/assets/2b2a5b48-b8e5-4bd8-a4f3-fb143365baef" />
+</p>
+
+## ✨ Features
+
+- 🤖 AI Assistant
+- 🔗 SAP Business One integration
+- 📊 Sales reports
+- 📦 Stock management
+- 👥 Customer management
+- 💬 Natural language interaction
+
 
 🛡️ License
 This project is open-source and available under the MIT License.
